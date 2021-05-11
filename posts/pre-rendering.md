@@ -12,7 +12,7 @@ Cel: (31) 98700-0480 Tel: (31) 3488-5055
 
 **formado** em Técnico em Informática pela Prime cursos. onde já tenho 2 anos de experiencia.
 
-<h2><b>linguagem que tenho conhecimento:</b></h2>
+<h3><b>linguagem que tenho conhecimento:</b></h3>
 
 **Php**: apenas estudei e fiz alguns projetos.  
 
@@ -20,7 +20,7 @@ Cel: (31) 98700-0480 Tel: (31) 3488-5055
 
 **C#**, **Sql**: Trabalho atualmente.
 
-<h2><b>Esperiencias proficionais</b></h2>
+<h3><b>Esperiencias proficionais</b></h3>
 
 **Exército Brasileiro** 
 
@@ -34,13 +34,13 @@ Principais Atividades: Montagem e manutenção de micros, instalação e configu
 
 Período: Agosto de 2020 a abril 2021.
  
- Cargo:Auxiliar técnico.
+ Cargo: Auxiliar técnico.
 
 Principais Atividades: Montagem de computadores, e manutenção de micros.
 
 Período: abril 2021.
  
- Cargo:Auxiliar Desenvolvedor.
+ Cargo: Desenvolvedor.
 
 Principais Atividades: Desenvolver e aprimorar o sistema da empresa.
 
