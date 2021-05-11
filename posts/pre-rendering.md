@@ -44,7 +44,7 @@ Período: abril 2021.
 
 Principais Atividades: Desenvolver e aprimorar o sistema da empresa.
 
-<h2><b>Informações Complementares</h2></b>
+<h3><b>Informações Complementares</h3></b>
 
 Instrutor  da seção de instrução especial SIEsp na ESA ,escola de sargentos das armas. 
 
