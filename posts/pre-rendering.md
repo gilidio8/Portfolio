@@ -8,10 +8,11 @@ Moro em Belo Horizonte, Minas Gerais – Brasil.
 Cel: (31) 98700-0480 Tel: (31) 3488-5055
 
 
-<br>Estudo Tecnologia em Análise e Desenvolvimento de Sistema na Pontifícia Universidade Católica de Minas Gerais - PUC MG.
-<br>Sou formado em Técnico em Informática pela Prime cursos. onde já tenho 2 anos de experiencia.
+**crusando** Tecnologia em Análise e Desenvolvimento de Sistema na Pontifícia Universidade Católica de Minas Gerais - PUC MG.
 
-##**linguagem que tenho conhecimento:**
+**formado** em Técnico em Informática pela Prime cursos. onde já tenho 2 anos de experiencia.
+
+<h2><b>linguagem que tenho conhecimento:</b></h2>
 
 **Php**: apenas estudei e fiz alguns projetos.  
 
@@ -19,9 +20,9 @@ Cel: (31) 98700-0480 Tel: (31) 3488-5055
 
 **C#**, **Sql**: Trabalho atualmente.
 
-##**Esperiencias proficionais**
+<h2><b>Esperiencias proficionais</b></h2>
 
-Exército Brasileiro 
+**Exército Brasileiro** 
 
 Período: Março 2018 a Fevereiro 2020.
  
@@ -29,7 +30,7 @@ Período: Março 2018 a Fevereiro 2020.
   
 Principais Atividades: Montagem e manutenção de micros, instalação e configuração de redes em sistemas operacionais linux, operação e monitoramento com spot.
 
-Gpj Informatica 
+**Gpj Informatica** 
 
 Período: Agosto de 2020 a abril 2021.
  
@@ -43,7 +44,7 @@ Período: abril 2021.
 
 Principais Atividades: Desenvolver e aprimorar o sistema da empresa.
 
-##**INFORMAÇÕES COMPLEMENTARES**
+<h2><b>Informações Complementares</h2></b>
 
 Instrutor  da seção de instrução especial SIEsp na ESA ,escola de sargentos das armas. 
 
