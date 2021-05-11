@@ -11,15 +11,34 @@ Cel: (31) 98700-0480 Tel: (31) 3488-5055
 <br>Estudo Tecnologia em Análise e Desenvolvimento de Sistema na Pontifícia Universidade Católica de Minas Gerais - PUC MG.
 <br>Sou formado em Técnico em Informática pela Prime cursos. onde já tenho 2 anos de experiencia.
 
-**linguagem que eu tenho conhecimento**
+**linguagem que tenho conhecimento:**
 
-Php: apenas estudei e fiz alguns projetos.  
+**Php**: apenas estudei e fiz alguns projetos.  
 
-c#: Trabalho atualmente.
-Sql: Trabalho atualmente.
+**Javascrip**, **html**, **css**: estudo, e tenho alguns projetos.
 
-Javascrip: estudo, e tenho alguns projetos.
-html: estudo, e tenho alguns projetos.
-css: estudo, e tenho alguns projetos.
+**C#**, **Sql**: Trabalho atualmente.
 
 **Esperiencias proficionais**
+
+EXÉRCITO BRASILEIRO 
+
+Período: Março 2018 a Fevereiro 2020.
+ 
+ Cargo:Técnico de TI, Manutenção e Redes.
+  
+Principais Atividades: Montagem e manutenção de micros, instalação e configuração de redes em sistemas operacionais linux, operação e monitoramento com spot.
+
+GPJ INFORMATICA  
+
+Período: Agosto de 2020 a abril 2021.
+ 
+ Cargo:Auxiliar técnico.
+
+Principais Atividades: Montagem de computadores, e manutenção de micros.
+
+Período: abril 2021.
+ 
+ Cargo:Auxiliar Desenvolvedor.
+
+Principais Atividades: Desenvolver e aprimorar o sistema da empresa.
