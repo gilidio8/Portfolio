@@ -50,4 +50,8 @@
   .lightText {
     color: #666;
   }
-  
+  .textoCentro {
+    margin-left: auto;
+    margin-right: auto;
+      width: 6em;
+  }
