@@ -25,3 +25,14 @@ img {
   max-width: 100%;
   display: block;
 }
+
+@media only screen and (max-device-width: 900px) {
+   .menu { width:100%; } 
+  }
+
+  @media only screen and (max-device-width: 900px) {
+  .menu { width:600px; } 
+  }
+  @media only screen and (max-device-width: 700px) {
+   .menu { width:400px; } 
+    }
